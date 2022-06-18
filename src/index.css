@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    color: #333;
+  }
+
+.input-section{
+    padding: 20px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 600px;
+    margin: auto;
+    border-bottom: 2px solid #29cc1a;
+}
+
+.input-section .form input{
+    width: 100%;
+    padding: 6px 10px;
+    margin: 10px auto;
+    border: 1px solid #ddd;
+    display: block;
+  }
+
+
+.input-section .form button{
+    margin: auto;
+    padding: 0 15px;
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
+
+.doList{
+    max-width: 600px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto;
+}
+
+.doList .list-preview h2{
+    padding: 10px 0px;
+    margin: 0px auto;
+}
+
+
